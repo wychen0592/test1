@@ -1,9 +1,7 @@
 {
 
-  "url":"https://raw.githubusercontent.com/lutong-elec/game/master/VolIP_TL2_UP_Check_A_v2.1.6_2019-08-17_216_jiagu_sign.apk",
-
-
-  "versionCode":52,
+  "url":"https://raw.githubusercontent.com/lutong-elec/game/master/VolIP_TL2_UP_Check_A_v2.1.7_2019-09-09_217_jiagu_sign.apk",
+  "versionCode":53,
   "isForce":1,
   "updateMessage":"检测新版本:2.1.7:<br/>[0]部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装<br/>[1]调整部分资源信息显示<br/>[2]如出现安装包已损坏的提示，请按[0]手动安装"
 }
