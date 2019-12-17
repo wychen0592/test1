@@ -1,7 +1,7 @@
 {
 
-  "url":"https://raw.githubusercontent.com/lutong-elec/game/master/VolIP_TL2_UP_Check_A_v2.2.4_release_2019-11-07_224_jiagu_sign.apk",
-  "versionCode":64,
+  "url":"https://raw.githubusercontent.com/lutong-elec/game/master/VolIP_TL2_UP_Check_A_v2.2.5_release_2019-12-15_225_jiagu_sign.apk",
+  "versionCode":65,
   "isForce":1,
-  "updateMessage":"检测新版本:2.2.4:<br/>[0]部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装<br/>[1]显示通道号<br/>[2]天虎复位显示<br/>[3]如出现安装包已损坏的提示，请按[0]手动安装"
+  "updateMessage":"检测新版本:2.2.5:<br/>[0]部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装<br/>[1]显示通道号<br/>[2]天虎复位显示<br/>[3]如出现安装包已损坏的提示，请按[0]手动安装"
 }
